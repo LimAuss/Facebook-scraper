@@ -14,7 +14,7 @@ All videos will be in MPEG-4 Part 14 (MP4) format.
 ## Clone & Configure
 ```
 # 1. Clone the repo
-git clone https://github.com/duongxthanh/facebook-reels-downloader.git
+git clone https://github.com/LimAuss/facebook-reels-downloader.git
 
 # 2. Change into the project directory
 cd facebook-reels-downloader
